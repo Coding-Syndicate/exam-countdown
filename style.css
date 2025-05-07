@@ -1,0 +1,29 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  background-color: black;
+  
+  text-align: center;
+}
+header{
+  font-size: 1.8rem;
+}
+main{
+  visibility: visible;
+  /* here to separate everything else */
+  font-size: xx-large;
+}
+.timer{
+  /* display: flex; */
+  /* justify-content: center; */
+}
+.a{
+  display: inline-block;
+}
+table{
+  border-collapse: collapse;
+
+}
+td, th{
+  padding: 0.7rem;
+}
