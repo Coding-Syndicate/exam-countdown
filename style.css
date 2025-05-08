@@ -22,8 +22,17 @@ main{
 }
 table{
   border-collapse: collapse;
+  
 
 }
 td, th{
   padding: 0.7rem;
+}
+/* td{
+  text-decoration: line-through;
+  color: gray
+} */
+table, td, th{
+  border: solid 0.13rem;
+  /* border-radius: 10%; */
 }
